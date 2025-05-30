@@ -2,8 +2,9 @@
 # Hotel_Management_System
 ---
 Output links:
-https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/hostelmanagementsystem.png
-
+**
+[Hotel Management System](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/hostelmanagementsystem.png)
+**
 [Add reservation](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/addreservation.png)
 
 [View reservation](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/viewreservation.png)
@@ -12,7 +13,7 @@ https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/hostelmanage
 
 [cancel reservation](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/cancelreservation.png)
 
-[Generate report]
+[Generate report](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/generate%20report.png)
 
 
 
