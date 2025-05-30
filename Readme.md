@@ -8,7 +8,7 @@ https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/hostelmanage
 
 [View reservation](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/viewreservation.png)
 
-[Update reservation](
+[Update reservation](https://github.com/Divyaprabhu784/Hotel_Management_System/blob/main/update%20reservation.png)
 
 [cancel reservation]
 
